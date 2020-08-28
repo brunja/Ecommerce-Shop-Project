@@ -1,0 +1,25 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "password1",
+    "id": "dca4692d"
+  },
+  {
+    "email": "test@testdweqfef.com",
+    "password": "passwor",
+    "id": "2da23fdb"
+  },
+  {
+    "email": "bruno.kristins@gmail.com",
+    "password": "dffb663523e6a53d13cf06286d2ee15d93ae269d3240310fca24908a734ce581043f4c9168de51bcef69f6486b7bacaec9b39192bc6ef7ecf97c090562d5fd03.aafb80feb2bf8987",
+    "id": "2145265a"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "fa615385f326f3173f0db296798da7ea431e6063f6f42c747cb0e7d662b0f6db21918fae1416f4957e8cb70d6f7e170aad50167eccc945a173976281b48f4d88.dbf8639f074c559b",
+    "id": "e6f6ccb9"
+  }
+]
